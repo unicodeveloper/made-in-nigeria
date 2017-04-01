@@ -4,6 +4,8 @@
 ## <a name="A"> </a>A
 
 * [Alix](https://github.com/ireade/alix) - Alix, a Chrome extension for a11y.css. **By [@ireaderinokun](https://twitter.com/ireaderinokun)**
+* [Angular Material DateTimePicker](https://github.com/logbon72/angular-material-datetimepicker) - A datetime picker based on Angular 1.x Material - [@logbon72](https://twitter.com/logbon72)
+* [Angular Audio Recorder](https://github.com/logbon72/angular-recorder) - Angular module to embed sound recorder within your application. Supports WebRTC and Flash input. Also available for Cordova. [@logbon72](https://twitter.com/logbon72)
 * [APX](https://github.com/othreecodes/APX) - A Javafx Library for building MVC Applications. **By @othreecodes**
 * [Atom-Go-Imports](https://atom.io/packages/go-imports) A plugin for Atom Editor to add import statements to Go codes. **By [@abiosoft](https://twitter.com/abiosoft)**
 * [AppFramer](https://github.com/olucurious/AppFramer) - AppFramer helps to put your app screenshots in beautiful device frames with annotations by running a simple command **By [@olucurious](https://twitter.com/olucurious)**
@@ -23,7 +25,9 @@
 ## <a name="D"> </a>D
 
 * [Display Medium Posts](https://github.com/acekyd/display-medium-posts) - Display Medium Posts is a wordpress plugin that allows users display posts from medium.com on any part of their website. **By [@ace_kyd](https://twitter.com/ace_kyd)**
+* [DBVC](https://github.com/logbon72/dbvc) - PHP Database Version Control. Allows you to add database version control to any framework-less PHP application. Makes it easy for teams to collaborate on DB changes to project. [@logbon72](https://twitter.com/logbon72)
 * [Dockward](https://github.com/abiosoft/dockward) - Port forwarding tool for Docker containers. **By [@abiosoft](https://twitter.com/abiosoft)**
+
 
 
 ## <a name="E"> </a>E
