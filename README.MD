@@ -132,6 +132,8 @@
 
 * [wtfoperamini](https://github.com/ireade/wtfoperamini) - Development features not supported in Opera Mini, and some crowsourced workarounds for them. **By [@ireaderinokun](https://twitter.com/ireaderinokun)**
 
+* [wjs-cli] (https://github.com/neutrino2211/webjs) - CLI for making web and android apps with HTML , CSS and JS (ES7) **By [@neutrino2211]
+
 ## <a name="X"> </a>X
 
 ## <a name="Y"> </a>Y
